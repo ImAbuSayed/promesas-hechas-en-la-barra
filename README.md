@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesas-hechas-en-la-barra/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Promesas hechas en la barra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-hechas-en-la-barra/) |
+| **Get License** | [Secure Licensing Rights for Promesas hechas en la barra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-hechas-en-la-barra/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me miras y el mundo se para,
+> la noche está fría, tú enciendes mi cara.
+> Sabes bien que esta guerra yo siempre la gano,
+> acércate y pon tu calor en mi mano.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
